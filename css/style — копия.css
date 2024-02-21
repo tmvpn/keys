@@ -1,0 +1,48 @@
+
+.wrapper {
+}
+.header {
+}
+.container {
+}
+.main {
+    flex: 1 1 auto;
+}
+.footer {
+}
+
+.shapka {
+    font-size: 30px;
+    text-align: center;
+    color: #0d27e2;
+    margin-top: 10px;
+}
+
+.btn {
+    width: 200px;
+    height: 70px;
+    font-size: 22px;
+    background-color: #0048ff;
+    color: white;
+    margin: 50px auto;
+    display: block;
+}
+
+.vpns__box {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 70px;
+}
+
+.vpn {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.vpn__img {
+    width: 50%;
+    text-align: center;
+    /* margin-top: 22%; */
+}
